@@ -1,0 +1,12 @@
+PUT  http://localhost:5555/enderecos/057b2f76-729d-4b72-80c5-415987c71fed
+Content-Type: application/json
+
+{
+    "logradouro":"Rua",
+    "descricao":"Nova",
+    "cidade":"Acupe - SANTO AMARO",
+    "estado":"BA",
+    "rota":"03"
+}
+
+

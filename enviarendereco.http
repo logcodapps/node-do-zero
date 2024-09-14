@@ -1,0 +1,10 @@
+POST http://localhost:5555/enderecos
+Content-Type: application/json
+
+{
+    "logradouro":"Rua",
+    "descricao":"Largo",
+    "cidade":"Acupe - SANTO AMARO",
+    "estado":"BA",
+    "rota":"02"
+}
